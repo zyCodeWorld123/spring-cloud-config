@@ -1,1 +1,1 @@
-config: master branch,springcloud-config/config-dev.yml version=7
+config:  master branch,springcloud-config/config-dev.yml version=7
